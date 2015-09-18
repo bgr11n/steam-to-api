@@ -5,6 +5,14 @@ module.exports = {
       'password': '8zzh3yWindowsvista78'
     },
     {
+      'login': 'bgr11n_1',
+      'password': 'Windowsvista78'
+    },
+    {
+      'login': 'bgr11n_asd',
+      'password': 'Windowsvista78'
+    },
+    {
       'login': 'bgr11n',
       'password': 'Windowsvista78'
     }
